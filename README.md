@@ -11,7 +11,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-## KORISNIČKO IME I LOZINKA SALONA I KORISNIKA
+## KORISNIČKO IME I LOZINKA SALONA I KORISNIKA ZA PRIJAVU BEZ REGISTRACIJE
 
 #korisnik
 email: korisnik@gmail.com
