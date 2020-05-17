@@ -11,6 +11,18 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
+## KORISNIČKO IME I LOZINKA SALONA I KORISNIKA
+
+#korisnik
+email: korisnik@gmail.com
+lozinka: 123456
+
+#salon
+email: salon@gmail.com
+lozinka: 123456
+
+
+
 # build for production with minification
 npm run build
 
@@ -20,14 +32,6 @@ npm run build --report
 # naziv aplikacije
 HairStudio Finder
 
-# opis aplikacije
-Aplikacija služi za zakazivanje termina kod frizera.
-Nudi mogućnosti da se korisnik aplikacije ulogira kao vlasnik salona i kao korisnik salona. 
-Ako se ulogira kao korisnik salona nudi mu se mogućnost upisivanja mjesta u kojem se želi ošišati
-nakon upisivanja mjesta izbacuju mu se saloni koji se nalaze u tom mjestu. Nakon toga korisnik odabire salon.
-Zatim nakon odabira salona nudi mu se mogućnost odabira frizera kod kojeg se želi šišati, te mogućnost zakazivanja
-termina kod istog. Ako je korisnik aplikacije ulogiran kao vlasnik salona, onda mu se nudi mogućnost dodavanja ili brisanja
-frizera unutar salona, te dodavanje slobodnih termina za svakog frizera. Isto tako omogućen mu je i uvid u zakazane termine unutar salona.
 
 
 # članovi tima
